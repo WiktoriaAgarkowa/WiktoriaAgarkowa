@@ -5,7 +5,7 @@ In early 2020 I decided to change my life and expand my abilities, so I started 
 
 :zap: Now I'm focused on learning React and at the same time practice my JavaScript skills every day.
 
-:sparkles: I truly believe that the highest goal of any activity is to do something good and useful for others.
+:heart: I truly believe that the highest goal of any activity is to do something good and useful for others.
 
 
 
