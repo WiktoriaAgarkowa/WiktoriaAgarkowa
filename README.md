@@ -22,6 +22,5 @@ In early 2020 I decided to change my life and expand my abilities, so I started 
 * [LinkedIn](https://www.linkedin.com/in/wiktoria-agarkowa-5b3626155/)
 * [My personal site](https://wiktoriaagarkowa.github.io/Portfolio/index.html)
 * [Behance](https://www.behance.net/Viktoriya_097a)
-* [Instagram](https://www.instagram.com/agarkovavi/)
 * [Email](mailto:victoriaagarkova96@gmail.com)
 
