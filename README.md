@@ -11,7 +11,7 @@ In early 2020 I decided to change my life and expand my abilities, so I started 
 
 ### My interests
 
-* :deciduous_tree: React and it's ecosystem
+* :deciduous_tree: Vue and it's ecosystem
 * :computer: Web & Mobile Design
 * :art: Painting and art
 * :movie_camera: Cinema
