@@ -15,12 +15,9 @@ In early 2020 I decided to change my life and expand my abilities, so I started 
 * :computer: Web & Mobile Design
 * :art: Painting and art
 * :movie_camera: Cinema
-* :books: English and Korean languages
 
 ### Feel free to contact me
 
 * [LinkedIn](https://www.linkedin.com/in/wiktoria-agarkowa-5b3626155/)
-* [My personal site](https://wiktoriaagarkowa.github.io/Portfolio/index.html)
-* [Behance](https://www.behance.net/Viktoriya_097a)
 * [Email](mailto:victoriaagarkova96@gmail.com)
 
